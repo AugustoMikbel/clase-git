@@ -10,3 +10,6 @@ print(mensaje)
 Use una variable para representar el nombre de una persona e imprima el mensaje "Hola
 <nombre de la persona>,¿te gustaría aprender algo de Python hoy?".
 '''
+print("escriba su nombre")
+nombre= input()
+print(f"Su nombre es {nombre}")
